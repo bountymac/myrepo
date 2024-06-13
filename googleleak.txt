@@ -1,0 +1,66 @@
+Leaked Documents Reveal How Google Search Gatekeeps the Internet
+SEO experts say a massive leak of 14,000 ranking features exposes the blueprint for how Google secretly curates the Internet.
+By
+Maxwell Zeff
+PublishedThursday 9:20AM
+Comments (54)
+Alphabet Inc. and Google CEO Sundar Pichai speaks during the inauguration of a Google Artificial Intelligence (AI) hub in Paris on February 15, 2024.
+Alphabet Inc. and Google CEO Sundar Pichai speaks during the inauguration of a Google Artificial Intelligence (AI) hub in Paris on February 15, 2024.Photo: ALAIN JOCARD/AFP (Getty Images)
+
+Google Search is often referred to as the doorstep to the internet—it’s the first stop on most people’s journey to information online. However, Google doesn’t say much about how it organizes the internet, making Search a giant black box that dictates what we know and what we don’t. This week, a 2,500-page leak, first reported by search engine optimization (SEO) veteran Rand Fishkin, gave the world an insight into the 26-year-old mystery of Google Search.
+
+“I think the biggest takeaway is that what Google’s public representatives say and what Google search engine does are two different things,” Fishkin said in an emailed statement to Gizmodo.
+
+These documents give a more detailed view of how Google Search controls the information we consume. Bringing the right webpage to your computer is no passive task as thousands of editorial decisions are made on your behalf by a secretive group of Googlers. For SEO, an industry that lives and dies by Google’s algorithms, the leaked documents are an earthquake. It’s like the NFL’s referees rewrote the rules of football halfway through the season, and you’re just finding out while playing the Super Bowl.
+Suggested Reading
+America's Largest Newspaper Publisher Sues Google Over Alleged Advertising Monopoly
+Everything You Need to Know About the Google Antitrust Lawsuit
+Feds Accuse Google of Digital Ad Monopoly in New Lawsuit
+
+Several SEO experts tell Gizmodo the leak lists 14,000 ranking features which, at the very least, lay a blueprint for how Google organizes everything on the web. Some of these factors include Google’s determination of a website’s authority on a given subject, the size of the website, or the number of clicks a webpage receives. Google has previously denied that it uses some of these ranking features in Search, but the company confirmed these documents are real, albeit, in its telling, imperfect.
+
+“We would caution against making inaccurate assumptions about Search based on out-of-context, outdated, or incomplete information,” a Google spokesperson said in an email to Gizmodo. “We’ve shared extensive information about how Search works and the types of factors that our systems weigh, while also working to protect the integrity of our results from manipulation.”
+
+With respect to Google’s “caution,” the company won’t confirm what is or isn’t right about these documents. Google says it’s incorrect to assume this is comprehensive information about Search, and tells Gizmodo that giving away too much information could enable bad actors. Ultimately, we don’t know what goes into determining these factors, or how much weight Google Search gives to each one, if any.
+
+“We’re just looking at different variables they’re considering,” said Mike King, an SEO expert who was one of the first to analyze the leak, in an interview with Gizmodo. “This is the granularity of which [Google] looks at websites.”
+
+This leak was first noticed by Erfan Azimi, an SEO practitioner who found the API documentation publicly on GitHub. It’s unclear if these documents were truly “leaked” or somehow published by Google in a quiet corner of the web, perhaps by accident. Azimi aimed to publicize these documents by bringing them to Fishkin last week, who asked King to help make sense of them.
+
+King notes that one ranking feature “homepagePagerankNs” suggests the notoriety of a website’s homepage could prop up everything it publishes. Fishkin writes the leak references a system called NavBoost—first referenced by Google’s VP of Search, Pandu Nayak, in his Department of Justice testimony—which purportedly measures clicks to boost rankings on Google Search. Many in the SEO industry are taking these documents as confirmation of what the industry has long suspected: A website deemed popular by Google may receive a higher Search ranking for a query even though a lesser-known site may have better information.
+
+In recent months, several small publishers have seen their Google Search traffic vanish. When The Verge’s Nilay Patel asked Google CEO Sundar Pichai about this last week, Pichai said he was not clear “if that’s a uniform trend.” One ranking feature King calls out seems to categorize those small sites uniformly.
+
+“They have a feature in there called ‘smallPersonalSite,’ and we don’t know how that’s used of course, but that’s an indication that [Google] is looking to understand whether these are smaller sites,” King said. “Being that so many of these small sites are getting crushed right now, it just goes to show that [Google] is not doing something to offset what these big brand signals are.”
+
+Notably, Pichai later mentioned in that interview with The Verge that, at other times, Google has thrown more traffic toward small sites. These ranking features could indicate the levers Google can pull. As more and more national media organizations license their content to appear on ChatGPT, Google Search also appears to be skewing towards larger publishers. Broadly, this could have a squashing effect, compressing what most people hear into just mainstream media organizations.
+
+The ripple effects of these leaked Google documents were felt widely. Kristen Ruby, CEO of Ruby Media Group who has worked in digital public relations and SEO for more than 15 years, tells Gizmodo she received an ominous text on Monday night: “Shit is going down with Google tomorrow.”
+
+Ruby quickly found the leak and noted two ranking features that stuck out to her: “isElectionAuthority” and “isCovidLocalAuthority.” These features seem to be Google’s way of ranking a web page’s credibility for providing proper information about elections and COVID-19, respectively. In 2019, Ruby wrote extensively about how Google’s measure of trustworthy web pages (which Google refers to as E-E-A-T, standing for Experience, Expertise, Authoritativeness, and Trust) is inherently political. She notes that Google’s measure of these factors tends to skew along political lines.
+
+“It is problematic to me that Google is providing no context on critical items in the data such as ‘isElectionAuthority’ or ‘isCovidLocalAuthority.’ How is Google defining an authority in these critical domains?” Ruby said in an emailed statement. “I should not have to guess at what the answer is. Google should be forthcoming and tell me what the answer is.”
+
+Even though Google is a business, with a right to private information, Ruby argues that Google has an obligation to answer questions on these ranking features that shape the world around us. King and Fishkin also noticed the ‘isCovidLocalAuthority” and “isElectionAuthority” in their writeups of the leak, both pointing out the importance of search engines in elevating quality information.
+
+“I think it’s really important they do provide that sort of discernment for information because like it or not, Google is effectively a public service,” said King. “They probably push back on me saying that, but we think of it as the primary source of how you get to information on the web.”
+
+How Google ranks information in these examples is a microcosm of the entire Search ecosystem. On any given day, there are millions of questions about what information to amplify and what to silence. While Google, and several tech companies, have long tried to paint themselves as opinion-less algorithms, these ranking features show that’s not quite the case. There are many more examples of ranking features revealed in the 2,500-page leak.
+Searching For Answers Amid Google’s Algorithm
+
+Since Google won’t elaborate on these documents, telling Gizmodo that giving away too much information could enable bad actors, SEO experts are left to make sense of this on behalf of everyone who uses Google Search. Several of these 14,000 ranking features identified in the last week are things that Google explicitly claimed it has not used over the years.
+
+In a video from 2016, a Google Search representative declared, “We don’t have a website authority score.” In an interview from 2015, another Googler said, “Using clicks directly in ranking would be a mistake.” It’s hard to make sense of these comments now in light of the leaked documents and Google’s response.
+
+“This response is a perfect example of why people don’t like or trust Google,” Fishkin said. “It’s a non-statement that doesn’t address the leak, provides no value, and might well have been written by an AI trained on the past decade’s most soulless corporate messaging.”
+
+In the era of AI answers, Ruby notes that the way Google ranks web pages is more important than ever. Instead of a series of links to various perspectives, you might just get one straight answer thanks to Google’s new AI Overviews. However, we’ve seen 10-year-old Reddit posts get strange amounts of authority, telling some users to put glue in their pizza. How Google chooses authority is increasingly important, since the top result may be the only one with a voice now.
+
+“We are switching gears. We are moving from one system of search to another,” Ruby said. “AI is impacting search results in profound ways.”
+More from Gizmodo
+A Parachute Failed to Deploy During Jeff Bezos' Space Tourism Comeback Mission
+Evangeline Lilly Is Done With Acting, Marvel Included
+See the Cybertruck's Steer-by-Wire System in Action (Including a Disturbing Lag)
+A Homeowner Mutiny in Florida Is Leaving the State More Vulnerable to Hurricanes
+
+Ultimately, it’s hard to say what Google is truly doing with these ranking features. What is clear is that Google created these classifiers, and potentially has even more, to rank websites on the internet. These rankings clearly require judgment calls, adding more evidence that Google Search is not an objective experience, but rather a series of editorial choices made by people within Google.
